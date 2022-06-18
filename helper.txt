@@ -1,0 +1,29 @@
+To create a servlet project using intelij, we have mainly two ways you need:
+
+
+FIRST WAY THAT WORKED BUT IS DEFINATELY WRONG!
+1 - New project using "Java Enterprise";
+2 - Choose the template to web or whatever you are using;
+3 - Choose the application server, in our case tomcat;
+4 - On the next page make sure to select either the "web profile"
+in the "Specifications" folder, or the "Full plataform";
+5 - After that you just need to run the server to see it running;
+
+extra:
+
+If you want to change the horrible url that the intelij artifact creates.
+you just need to edit the run configuration of the tomcat, both at the server
+and deployment tab;
+
+
+SECOND WAY USING JETTY/TOMCAT BUT WAY BETTERRRRR AND RIGHT!
+1 - New project using "Maven Archetype"
+2 - In the Archetype section, choose "maven-archetype-webapp", cause like that
+it will create a boiler plate with the folders n shit for you.
+3 - Then inside of the project you have to choose between using Jetty or
+Tomcat, for that we just have to add their plugin on the maven pom.xml.
+4 - After that we can run the app at the port 8080 just by clicking on the
+"maven" tab, looking for the "jetty" and then "jetty run".
+5 - Now to use the servlets, we add the dependencies for it and the java class
+to mess with it. Don't forget to also fix the web.xml inside of the "WEB-INF" folder,
+updating the version that we can use the servlet.
