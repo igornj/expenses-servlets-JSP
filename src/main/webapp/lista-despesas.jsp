@@ -38,6 +38,7 @@
                 <td>${despesa.getData()}</td>
                 <td>${despesa.getValor()}</td>
                 <td>${despesa.getCategoria()}</td>
+                <td><a href="removeDespesa?id=${despesa.id}">Remover</a></td>
             </tr>
         </c:forEach>
 
