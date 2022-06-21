@@ -1,4 +1,9 @@
-br\codandosimples\ListaDespesasServlet.class
-br\codandosimples\PrimeiraServlet.class
-br\codandosimples\RemoveDespesaServlet.class
-br\codandosimples\AdicionaDespesaServlet.class
+br\codandosimples\servlets\PrimeiraServlet.class
+br\codandosimples\acoes\RemoveDespesa.class
+br\codandosimples\servlets\RemoveDespesaServlet.class
+br\codandosimples\acoes\AdicionaDespesa.class
+br\codandosimples\acoes\Acao.class
+br\codandosimples\acoes\ListaDespesas.class
+br\codandosimples\servlets\ListaDespesasServlet.class
+br\codandosimples\servlets\ControladoraServlet.class
+br\codandosimples\servlets\AdicionaDespesaServlet.class

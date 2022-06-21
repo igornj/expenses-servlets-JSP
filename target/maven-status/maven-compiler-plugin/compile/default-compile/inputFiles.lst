@@ -1,2 +1,9 @@
-D:\Documents\Cursos -Certificados - Faculdade\Programação\Projetos\Java projects\servlets_jsp_despesas\src\main\java\br\codandosimples\AdicionaDespesaServlet.java
-D:\Documents\Cursos -Certificados - Faculdade\Programação\Projetos\Java projects\servlets_jsp_despesas\src\main\java\br\codandosimples\PrimeiraServlet.java
+D:\Documents\Cursos -Certificados - Faculdade\Programação\Projetos\Java projects\servlets_jsp_despesas\src\main\java\br\codandosimples\acoes\AdicionaDespesa.java
+D:\Documents\Cursos -Certificados - Faculdade\Programação\Projetos\Java projects\servlets_jsp_despesas\src\main\java\br\codandosimples\acoes\ListaDespesas.java
+D:\Documents\Cursos -Certificados - Faculdade\Programação\Projetos\Java projects\servlets_jsp_despesas\src\main\java\br\codandosimples\servlets\ListaDespesasServlet.java
+D:\Documents\Cursos -Certificados - Faculdade\Programação\Projetos\Java projects\servlets_jsp_despesas\src\main\java\br\codandosimples\acoes\RemoveDespesa.java
+D:\Documents\Cursos -Certificados - Faculdade\Programação\Projetos\Java projects\servlets_jsp_despesas\src\main\java\br\codandosimples\acoes\Acao.java
+D:\Documents\Cursos -Certificados - Faculdade\Programação\Projetos\Java projects\servlets_jsp_despesas\src\main\java\br\codandosimples\servlets\ControladoraServlet.java
+D:\Documents\Cursos -Certificados - Faculdade\Programação\Projetos\Java projects\servlets_jsp_despesas\src\main\java\br\codandosimples\servlets\PrimeiraServlet.java
+D:\Documents\Cursos -Certificados - Faculdade\Programação\Projetos\Java projects\servlets_jsp_despesas\src\main\java\br\codandosimples\servlets\AdicionaDespesaServlet.java
+D:\Documents\Cursos -Certificados - Faculdade\Programação\Projetos\Java projects\servlets_jsp_despesas\src\main\java\br\codandosimples\servlets\RemoveDespesaServlet.java

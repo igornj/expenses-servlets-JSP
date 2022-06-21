@@ -1,4 +1,4 @@
-package br.codandosimples;
+package br.codandosimples.servlets;
 
 import br.com.codandosimples.infra.ConnectionFactory;
 
